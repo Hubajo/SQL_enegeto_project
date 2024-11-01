@@ -1,4 +1,4 @@
-#**Výzkumné otázky a zjištěné odpovědi:**
+**Výzkumné otázky a zjištěné odpovědi:**
 
 ##**1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
