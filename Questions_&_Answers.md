@@ -19,7 +19,6 @@ Ne, ceny potravin v žádném roce nevzrostly více než o 10 % v porovnání s 
 Rok 2013 přinesl nejvýraznější nárůst cen potravin v poměru k mzdám. V tomto roce se ceny potravin zvýšily o 5,1 %, zatímco platy klesly o 1,56 %. 
 
 
-
 **5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
 
 Na základě analýzy dat nelze jasně určit, že by růst HDP měl přímý vliv na výši cen potravin a mezd v tomtéž roce nebo v následujícím.
