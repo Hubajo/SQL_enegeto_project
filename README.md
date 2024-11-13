@@ -10,7 +10,7 @@ V rámci projektu jsem z veřejně dostupných dat vytvořil dvě tabulky zachyc
 1. t_josef_hubacek_project_SQL_primary_final, která obsahuje data mezd a cen potravin pro Českou republiku, 
 2. t_josef_hubacek_project_SQL_secondary_final, která obsahuje dodatečná ekonomická data pro evropské státy.
 
-Dále jsem připravil sadu SQL dotazů (Task 1 - 5), a knim výsledné soubory ve formátu .XLSX které zodpovídají otázky uvedené v souboru Questions_&_Answers. 
+Dále jsem připravil sadu SQL dotazů (Task 1 - 5), a knim odpovědi v souboru Questions_&_Answers. 
 
 SQL dotazy jsou zpracovány v databázi MariaDB.
 
