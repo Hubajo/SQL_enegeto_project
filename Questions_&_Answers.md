@@ -9,7 +9,7 @@ Na opačném pólu stál rok 2018, který byl jednoznačně nejlepším obdobím
 
 **2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 
-Nejstarší a nejnovější období, které lze z dostupných dat vyhodnotit, zahrnuje roky 2006 a 2018. V roce 2006 dosahovala kupní síla průměrné mzdy hodnoty, která umožňovala zakoupit 919 kilogramů chleba a 1026 litrů mléka. O dvanáct let později, v roce 2018, se kupní síla průměrné mzdy výrazně zvýšila – umožnila pořízení 1051 kilogramů chleba a 1285 litrů mléka.
+Nejstarší a nejnovější období, které lze z dostupných dat vyhodnotit, zahrnuje roky 2006 a 2018. V roce 2006 dosahovala kupní síla průměrné mzdy hodnoty 21 165 Kč, která umožňovala zakoupit 1313 kilogramů chleba a 1466 litrů mléka. O dvanáct let později, v roce 2018, se kupní síla průměrné mzdy výrazně zvýšila na 33 092 Kč – umožnila pořízení 1365 kilogramů chleba a 1670 litrů mléka.
 
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 Mezi lety 2006 a 2018 došlo k nejpomalejšímu nárůstu cen u "Banánů žlutých," a to jen o 7,4 %. Naopak, dvě jiné položky – "Cukr krystalový" a "Rajská jablka červená kulatá" – v tomto období zaznamenaly dokonce pokles cen: cukr zlevnil o 27,5 % a rajčata o 23,1 %
